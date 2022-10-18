@@ -210,6 +210,7 @@
   "tbtt": "eip155:1028",
   "cfx": "eip155:1030",
   "metis-andromeda": "eip155:1088",
+  "wemix": "eip155:1111",
   "twemix": "eip155:1112",
   "MATH": "eip155:1139",
   "tMATH": "eip155:1140",
